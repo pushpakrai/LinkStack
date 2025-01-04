@@ -1,0 +1,5 @@
+/backend/.env
+/backend/requests
+
+node_modules/
+npm-debug.log*
